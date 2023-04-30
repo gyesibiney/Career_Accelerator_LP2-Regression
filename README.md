@@ -36,3 +36,6 @@ Q4.which store had the highest sale?
 
 Q5.what is the most bought product per unit sale?
 -- bread and bakery had the highest sales.
+
+## Author
+## DAVID GYESI BINEY
