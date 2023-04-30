@@ -21,3 +21,18 @@ In testing the hypothesis, we used the ordinary least squared regression analysi
 
 - The R-squared value of the model is 0.223, meaning 22.3% of the variation in sales can be explained by the predictors. The coefficients for each predictor indicate how much the dependent variable is expected to change when the predictor changes by one unit. The model is statistically significant in predicting sales, with all three predictors having p-values less than 0.05 and a high F-statistic.Hence, our hypothesis is true. However, the condition number is large, suggesting further investigation is needed
 
+## Questions
+Q1. which city had the highest stores?
+-- From the plot above, it can be catergorically inferred that, Quito recorded the highest, followed by Guayaqui.
+
+Q2.which month did we have the highest?
+-- from the visual, it was noticed that, The highest sale (per unit product sold) was recorded in April of 2016.
+
+Q3.which store had the highest transaction?
+-- the plot indicates that, store number 44 had the highest transactions.
+
+Q4.which store had the highest sale?
+-- obviously from the visualisation above, store number 44 again had the highest sales.
+
+Q5.what is the most bought product per unit sale?
+-- bread and bakery had the highest sales.
