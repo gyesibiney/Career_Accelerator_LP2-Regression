@@ -6,7 +6,7 @@ Building Accurate Models for Unit Sales Prediction in Favorita Stores using Time
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP 2 | Building Accurate Models for Unit Sales Prediction in Favorita Stores using Time Series Forecasting.  |  (https://medium.com/@david.biney/using-time-series-forecasting-developing-precise-models-for-unit-sales-prediction-in-favorita-3cf435125d11) | (gyesibiney/Career_Accelerator_LP2-Regression: Live Project 2 for the Post Business Analytics Programme (BAP) Career Acceleration Programme (github.com)) |
+| LP 2 | Building Accurate Models for Unit Sales Prediction in Favorita Stores using Time Series Forecasting.  |  (https://medium.com/@david.biney/using-time-series-forecasting-developing-precise-models-for-unit-sales-prediction-in-favorita-3cf435125d11) | (https://github.com/gyesibiney/Career_Accelerator_LP2-Regression) |
 
 
 
